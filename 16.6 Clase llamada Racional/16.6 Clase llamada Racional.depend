@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641036106 source:e:\programacion en c++\ejercisios del libro\16.6 clase llamada racional\main.cpp
+	<iostream>
+	<stdlib.h>
+
