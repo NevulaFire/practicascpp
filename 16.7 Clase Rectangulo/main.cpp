@@ -58,3 +58,8 @@ r1.perimetro();
 r1.area();
 return 0;
 }
+/* INSTRUCCIONES DEL EJERCISIO: 
+Genere una clase Rectangulo con los atributos longitud y ancho, cada uno con un valor predeterminado
+igual a 1. Proporcione funciones miembro que calculen el perímetro y el área del rectángulo. Además, proporcione
+las funciones establecer y obtener para los atributos longitud y ancho. Las funciones establecer deben verificar
+que longitud y ancho contengan números de punto flotante mayores que 0.0 y menores que 20.0. */
